@@ -1,4 +1,4 @@
-import StudentCard from "../components/StudentCard";
+import StudentCard from "../components/students/StudentCard";
 import { students } from "../data/students";
 
 export default function StudentsPage() {
