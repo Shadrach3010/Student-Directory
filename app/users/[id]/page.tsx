@@ -27,13 +27,13 @@ export default async function UserDetails ({
 
                 <div className="space-y-4">
                     <p>
-                        <strong>Email:</strong>{user.email}
+                        <strong>Email: </strong>{user.email}
                     </p>
                     <p>
-                        <strong>Phone:</strong>{user.phone}
+                        <strong>Phone: </strong>{user.phone}
                     </p>
                     <p>
-                        <strong>Website:</strong>{user.website}
+                        <strong>Website: </strong>{user.website}
                     </p>
                 </div>
             </div>
